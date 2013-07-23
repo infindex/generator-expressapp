@@ -1,5 +1,5 @@
 # Generator expressjs
-[![Build Status](https://secure.travis-ci.org/infindex/generator-expressjs.png?branch=master)](https://travis-ci.org/infindex/generator-expressjs)
+[![Build Status](https://secure.travis-ci.org/infindex/generator-expressapp.png?branch=master)](https://travis-ci.org/infindex/generator-expressapp)
 
 A generator for Yeoman.
 
